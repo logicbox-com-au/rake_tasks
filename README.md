@@ -6,7 +6,7 @@ LogicBox Rake tasks, for LogicBox devs
 
 Add this line to your application's Gemfile:
 
-    gem 'rake_tasks'
+    gem 'rake_tasks', :git => 'git://github.com/thelogicbox/rake_tasks.git'
 
 And then execute:
 
